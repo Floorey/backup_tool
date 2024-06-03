@@ -1,0 +1,8 @@
+[package]
+name = "backup_tool"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+walkdir = "2.3.1"
+zip = "2.1.2"
